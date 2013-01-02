@@ -1,3 +1,7 @@
 name: math_utils
+version: 0.0.1
+description: Math utils
+author: Victor Savkin <vic.savkin@gmail.com>
+homepage: https://github.com/vsavkin/mathutils
 dependencies:
   unittest: 0.2.8+2
